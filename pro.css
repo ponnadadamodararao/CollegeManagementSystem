@@ -1,0 +1,124 @@
+#body
+{
+    background-image: linear-gradient(260deg,orange,white,skyblue,green);
+}
+h1
+{
+    color:red;
+    text-decoration-line:underline;
+    margin-left: 50px;
+    text-shadow: 5px 3px 2px black;
+}
+marquee
+{
+    color:blue;
+    margin-top: 20px;
+    text-decoration-line: underline;
+}
+#div
+{
+    margin-top: 70px;
+    background-color:none;
+    width:800px;
+    height:500px;
+    border-radius: 0px 0px 0px 0px;
+}
+#div1
+{
+    margin-top: -115px;
+    background-image:radial-gradient(red,blue,green,orange);  
+    width:390px;
+    height:390px;
+    border-radius: 80px 80px 80px 80px;
+    font-size: 65px;
+    font-weight:bold ;
+    font-family: 'Times New Roman', Times, serif
+    
+}
+#reg
+{
+    margin-top: 0px; 
+    margin-left: 20px;
+    height: 20px;
+    width:100px;
+    padding:10px; 
+    border:dotted blue 3px; 
+    box-shadow: 5px 5px 3px black;
+    text-shadow: 3px 2px 1px yellow; 
+    
+}
+#man
+{
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 540px;;
+    border: dotted blue 3px;
+    padding: 10px;
+    box-shadow: 5px 5px 3px black;
+    text-shadow: 3px 2px 1px yellow;
+    
+
+}
+#std
+{
+    width:100px;
+    margin-left: 540px; 
+    margin-top: 110px;
+    border: dotted blue 3px;
+    padding: 10px;
+    box-shadow: 5px 5px 3px black;
+    text-shadow: 3px 2px 1px yellow;
+}
+#sta
+{
+    width:100px;
+    margin-left:540px;
+    margin-top: 75px;
+    border: dotted blue 3px;
+    padding: 10px;
+    box-shadow: 5px 5px 3px black;
+    text-shadow: 3px 2px 1px yellow;
+}
+#alu
+{
+    margin-top: 40px;
+    border: blue dotted 3px;
+    padding:10px;
+    margin-left: 20px;
+    height: 20px;
+    width:100px;
+    box-shadow: 5px 5px 3px black;
+    text-shadow: 3px 2px 1px yellow;
+
+}
+#fee
+{
+    width:100px;
+    margin-top:-150px ;
+    margin-right: 540px;
+    border: dotted blue 3px;
+    padding: 10px;
+    box-shadow: 5px 5px 3px black;
+    text-shadow: 3px 2px 1px yellow;
+   
+}
+#att
+{
+    width:100px;
+    margin-top: -200px;
+    margin-right: 540px;
+    border: dotted blue 3px;
+    padding: 10px;
+    box-shadow: 5px 5px 3px black;
+    text-shadow: 3px 2px 1px yellow;
+}
+#acd
+{
+    width:120px;
+    margin-top:-200px;
+    margin-right: 560px;
+    border: dotted blue 3px;
+    padding: 10px;
+    box-shadow: 5px 5px 3px black;
+    text-shadow: 3px 2px 1px yellow;
+}
